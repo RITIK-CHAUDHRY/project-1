@@ -6,7 +6,7 @@
 ## Process
 1.Data Scraping:
 
-- Used the GitHub API to collect user data for individuals located in Delhi with more than 100 followers.
+- Used the GitHub API to collect user data for individuals located in Barcelona with more than 100 followers.
 - Fetched up to 500 public repositories for each user, capturing relevant details.
 
 2.Data Storage:
